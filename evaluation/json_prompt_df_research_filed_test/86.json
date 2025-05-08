@@ -1,0 +1,45 @@
+{
+    "title": " Cu2O nanorods modified by reduced graphene oxide for NH3 sensing at room temperature ",
+    "Gemini pro": {
+        "Clarity of Categorization": 2,
+        "Coverage of Research Field": 2,
+        "Field relevance to research paper content": 2,
+        "Granularity of the Research Field": 2
+    },
+    "Llama_2_7b": {
+        "Clarity of Categorization": 2,
+        "Coverage of Research Field": 2,
+        "Field relevance to research paper content": 2,
+        "Granularity of the Research Field": 2
+    },
+    "Llama_2_13b": {
+        "Clarity of Categorization": 1,
+        "Coverage of Research Field": 1,
+        "Field relevance to research paper content": 1,
+        "Granularity of the Research Field": 1
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity of Categorization": 1,
+        "Coverage of Research Field": 1,
+        "Field relevance to research paper content": 1,
+        "Granularity of the Research Field": 1
+    },
+    "ORKG_Llama_13b": {
+        "Clarity of Categorization": 1,
+        "Coverage of Research Field": 1,
+        "Field relevance to research paper content": 1,
+        "Granularity of the Research Field": 1
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity of Categorization": 2,
+        "Coverage of Research Field": 3,
+        "Field relevance to research paper content": 2,
+        "Granularity of the Research Field": 2
+    },
+    "Mistral_7b": {
+        "Clarity of Categorization": 2,
+        "Coverage of Research Field": 3,
+        "Field relevance to research paper content": 2,
+        "Granularity of the Research Field": 2
+    }
+}
