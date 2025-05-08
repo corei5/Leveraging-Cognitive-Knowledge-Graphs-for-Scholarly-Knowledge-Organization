@@ -1,0 +1,45 @@
+{
+    "title": " Identification of potential treatments for COVID-19 through artificial intelligence-enabled phenomic analysis of human cells infected with SARS-CoV-2 ",
+    "Gemini_pro": {
+        "Clarity of Categorization": 3,
+        "Coverage of Research Field": 3,
+        "Field relevance to research paper content": 3,
+        "Granularity of the Research Field": 3
+    },
+    "Llama_2_7b": {
+        "Clarity of Categorization": 2,
+        "Coverage of Research Field": 2,
+        "Field relevance to research paper content": 2,
+        "Granularity of the Research Field": 1
+    },
+    "Llama_2_13b": {
+        "Clarity of Categorization": 2,
+        "Coverage of Research Field": 2,
+        "Field relevance to research paper content": 2,
+        "Granularity of the Research Field": 2
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity of Categorization": 1,
+        "Coverage of Research Field": 1,
+        "Field relevance to research paper content": 1,
+        "Granularity of the Research Field": 1
+    },
+    "ORKG_Llama_13b": {
+        "Clarity of Categorization": 0,
+        "Coverage of Research Field": 0,
+        "Field relevance to research paper content": 0,
+        "Granularity of the Research Field": 0
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity of Categorization": 3,
+        "Coverage of Research Field": 3,
+        "Field relevance to research paper content": 3,
+        "Granularity of the Research Field": 3
+    },
+    "Mistral_7b": {
+        "Clarity of Categorization": 2,
+        "Coverage of Research Field": 2,
+        "Field relevance to research paper content": 2,
+        "Granularity of the Research Field": 2
+    }
+}
