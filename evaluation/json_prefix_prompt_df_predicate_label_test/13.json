@@ -1,0 +1,52 @@
+{
+    "title": " A cationic fluorescent polymeric thermometer for the ratiometric sensing of intracellular temperature ",
+    "Gemini_pro": {
+        "Clarity": 1,
+        "Coverage": 1,
+        "Relevance": 1,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "Llama_2_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "Llama_2_13b": {
+        "Clarity": 2,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity": 1,
+        "Coverage": 1,
+        "Relevance": 1,
+        "Granularity": 1,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Llama_13b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 3,
+        "Recognizes_all_predicates": 2
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity": 2,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Mistral_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": " Stimulated left DLPFC-nucleus accumbens functional connectivity predicts the anti-depression and anti-anxiety effects of rTMS for depression ",
+    "Gemini_pro": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "Llama_2_7b": {
+        "Clarity": 2,
+        "Coverage": 1,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "Llama_2_13b": {
+        "Clarity": 2,
+        "Coverage": 1,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity": 3,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 3
+    },
+    "ORKG_Llama_13b": {
+        "Clarity": 3,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 3
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Mistral_7b": {
+        "Clarity": 2,
+        "Coverage": 1,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": " TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents ",
+    "Gemini_pro": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "Llama_2_7b": {
+        "Clarity": 2,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Llama_2_13b": {
+        "Clarity": 2,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Llama_13b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "Mistral_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    }
+}

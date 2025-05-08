@@ -1,0 +1,52 @@
+{
+    "title": " Strong, Conductive, Foldable Graphene Sheets by Sequential Ionic and \u03c0 Bridging ",
+    "Gemini_pro": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Llama_2_7b": {
+        "Clarity": 1,
+        "Coverage": 3,
+        "Relevance": 2,
+        "Granularity": 1,
+        "Recognizes_all_predicates": 1
+    },
+    "Llama_2_13b": {
+        "Clarity": 2,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity": 0,
+        "Coverage": 0,
+        "Relevance": 0,
+        "Granularity": 0,
+        "Recognizes_all_predicates": 0
+    },
+    "ORKG_Llama_13b": {
+        "Clarity": 3,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 3
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity": 3,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 3
+    },
+    "Mistral_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    }
+}

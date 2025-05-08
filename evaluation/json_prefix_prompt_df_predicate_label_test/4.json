@@ -1,0 +1,52 @@
+{
+    "title": " Insights into pathogenesis of fatal COVID\u201019 pneumonia from histopathology with immunohistochemical and viral RNA studies ",
+    "Gemini_pro": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Llama_2_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Llama_2_13b": {
+        "Clarity": 3,
+        "Coverage": 3,
+        "Relevance": 3,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 3
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity": 1,
+        "Coverage": 1,
+        "Relevance": 1,
+        "Granularity": 1,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Llama_13b": {
+        "Clarity": 1,
+        "Coverage": 1,
+        "Relevance": 1,
+        "Granularity": 1,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Mistral_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    }
+}

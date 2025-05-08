@@ -1,0 +1,52 @@
+{
+    "title": " Three-dimensional nanoscale molecular imaging by extreme ultraviolet laser ablation mass spectrometry ",
+    "Gemini_pro": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Llama_2_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "Llama_2_13b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    },
+    "ORKG_Llama_2_7b": {
+        "Clarity": 2,
+        "Coverage": 1,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Llama_13b": {
+        "Clarity": 2,
+        "Coverage": 1,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 1
+    },
+    "ORKG_Mistral_7B": {
+        "Clarity": 1,
+        "Coverage": 1,
+        "Relevance": 1,
+        "Granularity": 1,
+        "Recognizes_all_predicates": 1
+    },
+    "Mistral_7b": {
+        "Clarity": 2,
+        "Coverage": 2,
+        "Relevance": 2,
+        "Granularity": 2,
+        "Recognizes_all_predicates": 2
+    }
+}
